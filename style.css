@@ -123,6 +123,7 @@ footer{
     width: 100%;
     height: 400px;
     background-color: #B2CED7;
+<<<<<<< HEAD
     margin-top: 30px;
 }
 
@@ -265,3 +266,7 @@ footer table td{
 .form h3{
     color: white;
 }
+=======
+}
+
+>>>>>>> 4aee3e59bfe57e55322a97feb15fb32bcb6e2123
