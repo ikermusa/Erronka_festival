@@ -1,0 +1,29 @@
+body{
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.alojamiento1{
+    display: flex;
+    align-items: center;
+    height: auto;
+}
+
+img{
+    width: 400px;
+    margin-left: 130px;
+    margin-right: 40px;
+}
+
+section{
+    width: 70%;
+    height: 900px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.precioBoton{
+    
+    display: inline-block;
+}
