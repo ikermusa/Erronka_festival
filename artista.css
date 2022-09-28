@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+body{
+    margin: 0;
+}
+>>>>>>> 53fc7f3c6973ec2cd15a870bf99b163f1c1c3c0b
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
     background-color: transparent;
@@ -67,7 +73,17 @@ h1 {
 }
 a{
     text-decoration: none;
+<<<<<<< HEAD
     color: white;
+=======
+    color: black;
+}
+
+video{
+    height: 600px;
+    width: 100%;
+    margin: 3%;
+>>>>>>> 53fc7f3c6973ec2cd15a870bf99b163f1c1c3c0b
 }
 
 @media (max-width: 900px) {
