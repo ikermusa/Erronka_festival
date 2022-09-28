@@ -1,0 +1,93 @@
+body{
+    font-size: 12px;
+    font-family: sans-serif;
+    margin: 0;
+}
+.titulo{
+    font-size: 40px;
+}
+.al1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fal1{
+    max-width: 400px;
+    display: inline-block;
+    margin-right: 120px;
+}
+.textal1{
+    max-width: 500px;
+    font-size: 20px;
+    align-items: flex-end;
+    display: inline-block;
+}
+.fal2{
+    max-width: 400px;
+    display: inline-block;
+    margin-right: 120px;
+    margin-left: 30px;
+}
+li{
+    font-size: 15px;
+}
+img{
+    width: 400px;
+}
+.seccion1{
+    width: 70%;
+    height: 900px;
+    margin: auto;
+    margin-top: 50px;
+}
+button{
+    color: white;
+    background-color: #34495e;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 10px,10px,10px,10px;
+}
+a :hover{
+    color: #429EBD;
+}
+.titulo1{
+    font-size: 40px;
+    margin-top: 650px;
+}
+.seccion2{
+    padding-top: 0px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ubicaciones{
+    max-width: 400px;
+    display: inline-block;
+    margin-right: 120px;
+}
+.botones{
+   margin-top: 40px;
+    font-size: 20px;
+    align-items: flex-end;
+   display: inline-block;
+
+}
+.botonPalcos{
+    background-color: #D43437;
+    display: inline-flex;
+}
+.botonOriente{
+    background-color: #5A96B4;
+    display: inline-flex;
+}
+.botonPoniente{
+    background-color: #EE9322;
+    display: inline-flex;
+}
+.botonGB{
+    background-color: rgb(142, 176, 116);
+}
+.botonGA{
+    background-color: #F5C250;;
+}

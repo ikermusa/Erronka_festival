@@ -1,0 +1,22 @@
+.grid_img_text {
+    display: grid;
+    grid-template-columns: 30% 60%;
+    grid-gap: 0%;
+    grid-auto-rows: minmax(100px, auto);
+
+    justify-content: center;
+}
+
+.grid_img_text div {
+    /* GRADIENTE DE FONDO */
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(9,9,121,0.8550770650056898) 0%, rgba(230,255,230,1) 57%);
+
+    /* SOMBRAS DE FONDO */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border-radius: 5px;
+}
+
+.grid_img_text .img img{
+    width: 100%;
+}
